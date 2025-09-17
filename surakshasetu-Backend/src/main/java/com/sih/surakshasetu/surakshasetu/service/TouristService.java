@@ -1,9 +1,9 @@
-package com.sih.surakshasetu.service;
+package com.sih.surakshasetu.surakshasetu.service;
 
-import com.sih.surakshasetu.dto.TouristDTO;
-import com.sih.surakshasetu.entity.RiskPrediction;
-import com.sih.surakshasetu.entity.TouristIdentity;
-import com.sih.surakshasetu.repository.TouristIdentityRepository;
+import com.sih.surakshasetu.surakshasetu.dto.TouristDTO;
+import com.sih.surakshasetu.surakshasetu.entity.RiskPrediction;
+import com.sih.surakshasetu.surakshasetu.entity.TouristIdentity;
+import com.sih.surakshasetu.surakshasetu.repository.TouristIdentityRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

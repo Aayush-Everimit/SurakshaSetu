@@ -1,8 +1,8 @@
-package com.sih.surakshasetu.service;
+package com.sih.surakshasetu.surakshasetu.service;
 
-import com.sih.surakshasetu.dto.AlertDTO;
-import com.sih.surakshasetu.entity.Alert;
-import com.sih.surakshasetu.repository.AlertRepository;
+import com.sih.surakshasetu.surakshasetu.dto.AlertDTO;
+import com.sih.surakshasetu.surakshasetu.entity.Alert;
+import com.sih.surakshasetu.surakshasetu.repository.AlertRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

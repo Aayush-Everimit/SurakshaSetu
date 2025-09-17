@@ -1,7 +1,7 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.TouristDTO;
-import com.sih.surakshasetu.service.TouristService;
+import com.sih.surakshasetu.surakshasetu.dto.TouristDTO;
+import com.sih.surakshasetu.surakshasetu.service.TouristService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

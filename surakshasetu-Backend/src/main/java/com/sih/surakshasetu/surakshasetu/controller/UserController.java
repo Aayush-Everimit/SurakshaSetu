@@ -1,8 +1,8 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.UserDTO;
-import com.sih.surakshasetu.entity.User;
-import com.sih.surakshasetu.service.UserService;
+import com.sih.surakshasetu.surakshasetu.dto.UserDTO;
+import com.sih.surakshasetu.surakshasetu.entity.User;
+import com.sih.surakshasetu.surakshasetu.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

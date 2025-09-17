@@ -1,4 +1,4 @@
-package com.sih.surakshasetu.dto;
+package com.sih.surakshasetu.surakshasetu.dto;
 
 import lombok.Getter;
 import lombok.Setter;

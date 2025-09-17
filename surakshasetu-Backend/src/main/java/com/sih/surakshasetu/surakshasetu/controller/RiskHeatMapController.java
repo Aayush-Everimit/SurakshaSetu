@@ -1,4 +1,4 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

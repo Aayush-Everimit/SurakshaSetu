@@ -1,7 +1,7 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.EfirDTO;
-import com.sih.surakshasetu.service.EfirService;
+import com.sih.surakshasetu.surakshasetu.dto.EfirDTO;
+import com.sih.surakshasetu.surakshasetu.service.EfirService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

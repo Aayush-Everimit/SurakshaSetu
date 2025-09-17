@@ -1,8 +1,8 @@
-package com.sih.surakshasetu.service;
+package com.sih.surakshasetu.surakshasetu.service;
 
-import com.sih.surakshasetu.dto.UserDTO;
-import com.sih.surakshasetu.entity.User;
-import com.sih.surakshasetu.repository.UserRepository;
+import com.sih.surakshasetu.surakshasetu.dto.UserDTO;
+import com.sih.surakshasetu.surakshasetu.entity.User;
+import com.sih.surakshasetu.surakshasetu.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

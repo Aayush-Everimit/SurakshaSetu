@@ -1,7 +1,7 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.AlertDTO;
-import com.sih.surakshasetu.service.AlertService;
+import com.sih.surakshasetu.surakshasetu.service.AlertService;
+import com.sih.surakshasetu.surakshasetu.dto.AlertDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.RiskPredictionDTO;
-import com.sih.surakshasetu.service.RiskPredictionService;
+import com.sih.surakshasetu.surakshasetu.dto.RiskPredictionDTO;
+import com.sih.surakshasetu.surakshasetu.service.RiskPredictionService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,10 +1,10 @@
-package com.sih.surakshasetu.controller;
+package com.sih.surakshasetu.surakshasetu.controller;
 
-import com.sih.surakshasetu.dto.LoginDTO;
-import com.sih.surakshasetu.dto.RegistrationDTO;
-import com.sih.surakshasetu.entity.TouristIdentity;
-import com.sih.surakshasetu.repository.TouristIdentityRepository;
-import com.sih.surakshasetu.service.TouristService;
+import com.sih.surakshasetu.surakshasetu.dto.LoginDTO;
+import com.sih.surakshasetu.surakshasetu.dto.RegistrationDTO;
+import com.sih.surakshasetu.surakshasetu.entity.TouristIdentity;
+import com.sih.surakshasetu.surakshasetu.repository.TouristIdentityRepository;
+import com.sih.surakshasetu.surakshasetu.service.TouristService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,11 +1,11 @@
-package com.sih.surakshasetu.service;
+package com.sih.surakshasetu.surakshasetu.service;
 
-import com.sih.surakshasetu.dto.AlertDTO;
-import com.sih.surakshasetu.dto.RiskPredictionDTO;
-import com.sih.surakshasetu.dto.UserDTO;
-import com.sih.surakshasetu.entity.Alert;
-import com.sih.surakshasetu.entity.RiskPrediction;
-import com.sih.surakshasetu.repository.RiskPredictionRepository;
+import com.sih.surakshasetu.surakshasetu.dto.AlertDTO;
+import com.sih.surakshasetu.surakshasetu.dto.RiskPredictionDTO;
+import com.sih.surakshasetu.surakshasetu.dto.UserDTO;
+import com.sih.surakshasetu.surakshasetu.entity.Alert;
+import com.sih.surakshasetu.surakshasetu.entity.RiskPrediction;
+import com.sih.surakshasetu.surakshasetu.repository.RiskPredictionRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

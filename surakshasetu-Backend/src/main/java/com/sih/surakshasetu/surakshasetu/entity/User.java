@@ -1,4 +1,4 @@
-package com.sih.surakshasetu.entity;
+package com.sih.surakshasetu.surakshasetu.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

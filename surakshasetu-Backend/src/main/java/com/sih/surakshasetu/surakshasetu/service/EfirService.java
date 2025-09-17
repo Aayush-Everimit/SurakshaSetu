@@ -1,8 +1,8 @@
-package com.sih.surakshasetu.service;
+package com.sih.surakshasetu.surakshasetu.service;
 
-import com.sih.surakshasetu.dto.EfirDTO;
-import com.sih.surakshasetu.entity.EfirRecord;
-import com.sih.surakshasetu.repository.EfirRecordRepository;
+import com.sih.surakshasetu.surakshasetu.dto.EfirDTO;
+import com.sih.surakshasetu.surakshasetu.entity.EfirRecord;
+import com.sih.surakshasetu.surakshasetu.repository.EfirRecordRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

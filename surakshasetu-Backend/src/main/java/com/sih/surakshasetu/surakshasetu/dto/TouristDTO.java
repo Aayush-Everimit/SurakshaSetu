@@ -1,4 +1,4 @@
-package com.sih.surakshasetu.dto;
+package com.sih.surakshasetu.surakshasetu.dto;
 
 import jakarta.validation.constraints.Email;
 import lombok.Getter;

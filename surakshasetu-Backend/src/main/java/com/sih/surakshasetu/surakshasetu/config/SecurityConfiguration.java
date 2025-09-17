@@ -1,4 +1,4 @@
-package com.sih.surakshasetu.config;
+package com.sih.surakshasetu.surakshasetu.config;
 
 
 import org.springframework.context.annotation.Bean;
